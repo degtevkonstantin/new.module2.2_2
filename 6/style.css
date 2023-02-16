@@ -1,0 +1,41 @@
+.wrapper-line {
+  height: 15px;
+  width: 80px;
+  background-color: silver;
+
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-blueviolet {
+  background-color: blueviolet;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-antiquewhite {
+  background-color: antiquewhite;
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-green {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(6, 173, 70);
+}
