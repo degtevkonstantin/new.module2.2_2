@@ -1,0 +1,49 @@
+.block {
+  width: 100%;
+}
+
+.block-batory {
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+}
+
+.block {
+  width: 100%;
+}
+
+.block-batory {
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+}
+
+.block-batory_main {
+  border: 10px solid black;
+  width: 30%;
+  height: 10vh;
+}
+
+.block-batory_rigth {
+  background-color: black;
+  width: 1vw;
+  height: 3vh;
+}
+
+.block-batory-main_red-block {
+  background-color: red;
+  width: 35%;
+  height: 100%;
+}
+
+.block-batory-main_yellow-block {
+  width: 65%;
+  height: 100%;
+  background-color: yellow;
+}
+
+.block-batory-main_green-block {
+  width: 100%;
+  height: 100%;
+  background-color: green;
+}
