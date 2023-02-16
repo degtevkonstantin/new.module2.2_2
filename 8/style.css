@@ -1,0 +1,51 @@
+body {
+  font-family: Roboto;
+}
+
+.wrapper {
+  width: 600px;
+  display: flex;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: white;
+}
+
+.wrapper-block:nth-child(3n + 2) {
+  border-right: 1px solid silver;
+  border-left: 1px solid silver;
+  width: 33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.wrapper-block {
+  width: 33%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+img {
+  height: 100px;
+}
+
+.wrapper-block-button {
+  background-color: rgb(223, 100, 0);
+  color: white;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+.wrapper-block-orange {
+  color: rgb(223, 100, 0);
+}
