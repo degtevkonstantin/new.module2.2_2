@@ -1,0 +1,25 @@
+.all {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+img {
+  width: 15vw;
+  margin: 20px 0px 20px 0;
+}
+
+.panel:hover {
+  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
+}
+
+.main_text {
+  font-size: 40px;
+  margin: 0px 0px 0px 0px;
+}
+
+.silver_text {
+  color: silver;
+  font-size: 30px;
+  margin: 10px 0px 0px 0px;
+}
