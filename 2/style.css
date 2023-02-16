@@ -1,0 +1,17 @@
+.full-indicator {
+  width: 100%;
+  height: 20px;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(107, 107, 107, 1) 52%);
+  border-radius: 20px;
+  border: 1px solid black;
+}
+
+.indicator {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(171, 218, 255, 1) 0%, rgba(43, 162, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
+  width: 50%;
+  height: 20px;
+  border-radius: 20px 0 0 20px;
+  box-shadow: 4px 0px 4px 1px rgb(0 0 0 / 45%)
+}
