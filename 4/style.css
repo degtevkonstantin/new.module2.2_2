@@ -9,16 +9,16 @@ img {
   margin: 20px 0px 20px 0;
 }
 
-.panel:hover {
+.all-panel:hover {
   box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.3);
 }
 
-.main_text {
+.all-panel__main-text {
   font-size: 40px;
   margin: 0px 0px 0px 0px;
 }
 
-.silver_text {
+.all-panel__silver_text {
   color: silver;
   font-size: 30px;
   margin: 10px 0px 0px 0px;
