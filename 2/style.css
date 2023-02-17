@@ -7,7 +7,7 @@
   border: 1px solid black;
 }
 
-.indicator {
+.full-indicator__indicator {
   background: rgb(0, 0, 0);
   background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(171, 218, 255, 1) 0%, rgba(43, 162, 255, 1) 0%, rgba(255, 255, 255, 1) 100%);
   width: 50%;
