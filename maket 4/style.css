@@ -55,13 +55,13 @@ h4 {
   margin-bottom: 40px;
 }
 
-.main-blocks_span {
+.main-blocks__span {
   margin-top: 60px;
   font-size: 20px;
   margin-bottom: 50px;
 }
 
-.main-blocks_span a {
+.main-blocks__span a {
   color: black;
   text-decoration: none;
 }
