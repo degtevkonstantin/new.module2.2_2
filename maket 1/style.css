@@ -12,7 +12,7 @@ body {
   flex-direction: column;
 }
 
-.conteiner-text {
+.conteiner__text {
 
   color: #0045be;
   font-weight: 700;
@@ -20,7 +20,7 @@ body {
   font-family: Merriweather, serif !important;
 }
 
-.conteiner_back img {
+.conteiner__back img {
   max-width: 550px;
   max-height: 550px;
   border-radius: 50%;
@@ -29,7 +29,7 @@ body {
 
 }
 
-.conteiner-blocks-block_svg {
+.conteiner-blocks-block__svg {
   width: 80px;
   height: 80px;
   background-color: #0045be;
@@ -62,7 +62,7 @@ body {
   font-size: 13px;
 }
 
-.conteiner-blocks-block_text {
+.conteiner-blocks-block__text {
   font-family: 'Roboto';
   font-size: 24px;
   font-weight: 700;
