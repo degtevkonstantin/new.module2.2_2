@@ -1,5 +1,6 @@
 body {
   font-family: Roboto;
+  background-color: cornflowerblue;
 }
 
 .wrapper {
@@ -36,7 +37,7 @@ img {
   height: 100px;
 }
 
-.wrapper-block-button {
+.wrapper-block__button {
   background-color: rgb(223, 100, 0);
   color: white;
   border-radius: 5px;
@@ -46,6 +47,6 @@ img {
   margin-bottom: 10px;
 }
 
-.wrapper-block-orange {
+.wrapper-block__orange {
   color: rgb(223, 100, 0);
 }
