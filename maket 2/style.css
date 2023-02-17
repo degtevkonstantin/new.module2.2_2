@@ -20,11 +20,11 @@ h1 {
   background-color: #e5e5e5;
 }
 
-.conteiner-main_text {
+.conteiner-main__text {
   margin: 10px 0 10px 0;
 }
 
-.conteiner_text {
+.conteiner__text {
   font-family: Open Sans;
   color: #111111;
   font-size: 18px;
@@ -177,7 +177,7 @@ span {
 
 }
 
-.conteiner-footer_text {
+.conteiner-footer__text {
   margin-top: 40px;
   max-width: 40%;
 }
