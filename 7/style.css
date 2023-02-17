@@ -14,7 +14,7 @@ body {
   transition: 1s;
 }
 
-.flag {
+.animation-block__flag {
   background-color: yellow;
   margin: 0px 0px 0px -45px;
   width: 130px;
@@ -29,7 +29,7 @@ body {
 
 }
 
-.content {
+.animation-block-content {
   width: 600px;
   height: 130px;
   background-color: black;
