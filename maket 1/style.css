@@ -13,7 +13,6 @@ body {
 }
 
 .conteiner__text {
-
   color: #0045be;
   font-weight: 700;
   font-size: 4.5rem;
@@ -25,8 +24,6 @@ body {
   max-height: 550px;
   border-radius: 50%;
   width: 100%;
-
-
 }
 
 .conteiner-blocks-block__svg {
@@ -43,7 +40,6 @@ body {
   background-color: #0045be;
   max-width: 40px;
   max-height: 40px;
-
 }
 
 .conteiner-blocks-block {
@@ -53,7 +49,6 @@ body {
   background-color: #ffffff;
   box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
   margin: 0px 10px 40px 10px;
-
 }
 
 .conteiner-blocks-block p {
@@ -81,7 +76,6 @@ body {
   .conteiner-blocks-block {
     margin: 0px 20px 40px 20px;
   }
-
   .conteiner-blocks {
     justify-content: center;
   }
@@ -106,7 +100,6 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-
 }
 
 .conteiner-footer-span {
