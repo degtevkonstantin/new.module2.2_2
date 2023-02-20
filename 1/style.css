@@ -1,4 +1,4 @@
-.block-batory {
+.block-battory {
   margin-top: 5%;
   display: flex;
   align-items: center;
@@ -8,37 +8,37 @@
   width: 100%;
 }
 
-.block-batory {
+.block-battory {
   margin-top: 5%;
   display: flex;
   align-items: center;
 }
 
-.block-batory-main {
+.block-battory-main {
   border: 10px solid black;
   width: 30%;
   height: 10vh;
 }
 
-.block-batory__rigth {
+.block-battory__rigth {
   background-color: black;
   width: 1vw;
   height: 3vh;
 }
 
-.block-batory-main__red {
+.block-battory-main__red {
   background-color: red;
   width: 35%;
   height: 100%;
 }
 
-.block-batory-main__yellow {
+.block-battory-main__yellow {
   width: 65%;
   height: 100%;
   background-color: yellow;
 }
 
-.block-batory-main__green {
+.block-battory-main__green {
   width: 100%;
   height: 100%;
   background-color: green;
