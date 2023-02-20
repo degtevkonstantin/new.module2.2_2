@@ -75,7 +75,6 @@ h4 {
   align-items: center;
   height: 300px;
   font-size: 20px;
-
 }
 
 .main-blocks-footer p {
@@ -87,7 +86,6 @@ h4 {
 
 .main-blocks-footer a {
   color: #5c96bb;
-  ;
 }
 
 @media screen and (max-width: 1490px) {
