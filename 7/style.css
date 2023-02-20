@@ -26,7 +26,6 @@ body {
   justify-content: center;
   align-items: center;
   border-radius: 0px 0px 10px 10px;
-
 }
 
 .animation-block-content {
@@ -38,12 +37,10 @@ body {
   color: white;
 }
 
-
 img {
   height: 90px;
   margin-right: 10px;
 }
-
 
 .animation-block:after {
   transition: 3s;
