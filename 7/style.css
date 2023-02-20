@@ -1,0 +1,47 @@
+body {
+  font-size: 20px;
+}
+
+.animation-block:hover {
+  margin-left: -8px;
+  transition: 1s;
+}
+
+.animation-block {
+  align-items: center;
+  display: flex;
+  margin-left: -608px;
+  transition: 1s;
+}
+
+.animation-block__flag {
+  background-color: yellow;
+  margin: 0px 0px 0px -45px;
+  width: 130px;
+  height: 40px;
+  rotate: -90deg;
+  align-items: end;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.animation-block-content {
+  width: 600px;
+  height: 130px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+img {
+  height: 90px;
+  margin-right: 10px;
+}
+
+.animation-block:after {
+  transition: 3s;
+}

@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+  margin: 0;
+  font-family: Open Sans;
+}
+
+h4 {
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+.main-blocks-block p {
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.main-blocks-block img {
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+}
+
+.main {
+  background-size: 1920px;
+  background-image: url(img/1.jpg);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  object-fit: cover;
+}
+
+.main-blocks {
+  display: flex;
+  padding-top: 500px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  max-width: 100%;
+}
+
+.main-blocks-block {
+  background-color: #292d33;
+  width: 375px;
+  padding: 0px 40px 50px 40px;
+  margin: 20px 20px;
+}
+
+.main-blocks-block a {
+  border: 2px solid yellow;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 20px 30px;
+  margin-bottom: 40px;
+}
+
+.main-blocks__span {
+  margin-top: 60px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.main-blocks__span a {
+  color: black;
+  text-decoration: none;
+}
+
+.main-blocks-footer {
+  background-color: #333333;
+  width: 100%;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 300px;
+  font-size: 20px;
+}
+
+.main-blocks-footer p {
+  width: 500px;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 60px;
+}
+
+.main-blocks-footer a {
+  color: #5c96bb;
+}
+
+@media screen and (max-width: 1490px) {
+  .main-blocks-block {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 1260px) {
+  .main-blocks-block {
+    width: 400px;
+  }
+
+  .main {
+    background-size: 2320px;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .main-blocks-block {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 840px) {
+  .main-blocks-block {
+    width: 200px;
+  }
+
+  .main {
+    background-size: 2520px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .main-blocks {
+    display: flex;
+    justify-content: center
+  }
+
+  .main-blocks-block {
+    width: 400px;
+  }
+
+  .main {
+    background-size: 3020px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .main {
+    background-size: 3020px;
+  }
+}

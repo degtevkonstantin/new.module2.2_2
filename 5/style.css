@@ -1,0 +1,15 @@
+.btn {
+  font-size: 30px;
+  text-decoration: none;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  color: black;
+}
+
+.btn:hover{
+  background: rgb(255, 196, 0);
+  background: linear-gradient(0deg, rgba(255, 196, 0, 1) 0%, rgba(255, 211, 105, 1) 0%, rgba(255, 255, 255, 1) 68%, rgba(255, 255, 255, 0.19371498599439774) 100%);
+  color: red;
+}
